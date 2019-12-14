@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca3f77ca-eb97-45e9-835d-4da6eb813e7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UywihfOBEC9fA4SHdq1y6B1Px2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="person" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ExcellenteamPrework#1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workers/person.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.person" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca3f77ca-eb97-45e9-835d-4da6eb813e7e" name="Default Changelist" comment="" />
+      <created>1576342272601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576342272601</updated>
+      <workItem from="1576342282559" duration="1498000" />
+      <workItem from="1576344175126" duration="1179000" />
+      <workItem from="1576346529188" duration="6142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2320" height="394" key="GridCell.Tab.0.bottom" timestamp="1576353954335">
+      <screen x="134" y="65" width="2426" height="1535" />
+    </state>
+    <state width="2320" height="394" key="GridCell.Tab.0.bottom/134.65.2426.1535@134.65.2426.1535" timestamp="1576353954335" />
+    <state width="2320" height="394" key="GridCell.Tab.0.center" timestamp="1576353954334">
+      <screen x="134" y="65" width="2426" height="1535" />
+    </state>
+    <state width="2320" height="394" key="GridCell.Tab.0.center/134.65.2426.1535@134.65.2426.1535" timestamp="1576353954334" />
+    <state width="2320" height="394" key="GridCell.Tab.0.left" timestamp="1576353954334">
+      <screen x="134" y="65" width="2426" height="1535" />
+    </state>
+    <state width="2320" height="394" key="GridCell.Tab.0.left/134.65.2426.1535@134.65.2426.1535" timestamp="1576353954334" />
+    <state width="2320" height="394" key="GridCell.Tab.0.right" timestamp="1576353954335">
+      <screen x="134" y="65" width="2426" height="1535" />
+    </state>
+    <state width="2320" height="394" key="GridCell.Tab.0.right/134.65.2426.1535@134.65.2426.1535" timestamp="1576353954335" />
+    <state x="808" y="602" key="com.intellij.ide.util.TipDialog" timestamp="1576346559403">
+      <screen x="134" y="65" width="2426" height="1535" />
+    </state>
+    <state x="808" y="602" key="com.intellij.ide.util.TipDialog/134.65.2426.1535@134.65.2426.1535" timestamp="1576346559403" />
+    <state x="593" y="754" key="com.intellij.ide.util.TipDialog/67.33.1892.1866@67.33.1892.1866" timestamp="1576342288965" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ExcellenteamPrework_1$person.coverage" NAME="person Coverage Results" MODIFIED="1576353854250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/workers" />
+  </component>
+</project>
